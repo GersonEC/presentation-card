@@ -83,10 +83,3 @@
   cursor: pointer;
   color: rgb(80, 160, 56);
 }
-
-@media screen and (max-width: 375px) {
-  .main {
-    border: 6px solid green;
-    inline-size: 10vw;
-  }
-}
