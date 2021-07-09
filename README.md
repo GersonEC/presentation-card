@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo
+
+You can see the demo of this project at this link: https://gersonec.github.io/presentation-card/
+
 ## Available Scripts
 
 In the project directory, you can run:
